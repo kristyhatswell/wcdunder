@@ -1,9 +1,10 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
+#wcdunder
 
-_s
+WCDunder
 ===
 
-Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Hi. I'm a starter theme called `WCDunder`. I'm a theme meant for hacking so don't use me
+as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 
 My ultra-minimal CSS might make me look like theme tartare but that means less stuff to get in your way when you're designing your awesome theme. Here are some of the other more interesting things you'll find here:
 
@@ -19,6 +20,21 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 
 Getting Started
 ---------------
+
+WCDunder
+--------
+
+You can download from GitHub this altered underscores template called "WCDunder" and start styling and developing it,
+ or if you don't want the changes I have made then you can follow the instructions below under the underscores
+ heading to download the original underscores starter theme.
+
+If you have chosen to start with WCDunder, then you need to manually change the text domain and prefixes.
+You can do this by searching the entire wcdunder folder for "wcdunder" and using search and replace to change it to the name of your theme/text domain.
+Next go into the style.css file and update the header which contains theme and author information and update it to
+your details. You should then be ready to go!
+
+Underscores
+-----------
 
 If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
 

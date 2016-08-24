@@ -7,7 +7,7 @@ Description: WordPress theme
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: wcdair
+Text Domain: wcdunder
 Tags:
 
 This theme, like WordPress, is licensed under the GPL.
@@ -544,6 +544,8 @@ a:active {
 	margin: 0;
 	padding-left: 0;
 }
+
+/*=== Code which has replaced underscores original styles ===*/
 .main-navigation a {
 	display: block;
 	padding: 0.8em 0;
@@ -659,6 +661,8 @@ a:active {
 .dropdown-toggle.toggle-on:after {
 	content: "\f077";
 }
+
+/*=== End of altered code ===*/
 
 /* Small menu. */
 .menu-toggle,

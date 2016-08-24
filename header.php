@@ -21,7 +21,7 @@
 </head>
 
 <body <?php body_class(); ?>>
-<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'wcdair' ); ?></a>
+<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'wcdunder' ); ?></a>
 
 <header id="masthead" class="site-header" role="banner">
 	<div class="site-branding">
@@ -44,11 +44,11 @@
 
 	<nav id="site-navigation" class="main-navigation" role="navigation">
 		<button class="menu-toggle" aria-controls="primary-menu"
-		        aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'wcdair' ); ?></button>
+		        aria-expanded="false"><?php esc_html_e( 'Primary Menu', 'wcdunder' ); ?></button>
 		<?php wp_nav_menu( array(
 			'theme_location' => 'primary',
 			'menu_id'        => 'primary-menu',
-			'menu_class'     => 'nav-menu',
+			'menu_class'     => 'nav-menu', // === This line has been added on top of underscores ===
 		) ); ?>
 	</nav><!-- #site-navigation -->
 </header><!-- #masthead -->
