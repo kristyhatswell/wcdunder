@@ -1,8 +1,8 @@
 <?php
 /**
- * WCD Air Theme Customizer.
+ * wcdunder Theme Customizer.
  *
- * @package WCD_Air
+ * @package wcdunder
  */
 
 /**

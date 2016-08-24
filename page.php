@@ -9,7 +9,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package WCD_Air
+ * @package wcdunder
  */
 
 get_header(); ?>

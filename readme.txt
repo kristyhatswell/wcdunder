@@ -1,4 +1,4 @@
-=== WCD Air ===
+=== wcdunder ===
 
 Contributors: Kristy Hatswell, adapted from automattic's starter theme underscores
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments

@@ -1,10 +1,10 @@
 <?php
 /**
- * WCD Air functions and definitions.
+ * wcdunder functions and definitions.
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package WCD_Air
+ * @package wcdunder
  */
 
 if ( ! function_exists( 'wcdunder_setup' ) ) :
@@ -19,7 +19,7 @@ function wcdunder_setup() {
 	/*
 	 * Make theme available for translation.
 	 * Translations can be filed in the /languages/ directory.
-	 * If you're building a theme based on WCD Air, use a find and replace
+	 * If you're building a theme based on wcdunder, use a find and replace
 	 * to change 'wcdunder' to the name of your theme in all the template files.
 	 */
 	load_theme_textdomain( 'wcdunder', get_template_directory() . '/languages' );
