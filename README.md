@@ -1,6 +1,5 @@
 #wcdunder
 
-WCDunder
 ===
 
 Hi. I'm a starter theme called `WCDunder`. I'm a theme meant for hacking so don't use me
